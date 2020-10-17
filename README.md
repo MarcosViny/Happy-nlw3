@@ -4,7 +4,7 @@
 
 <h1 align="center">Happy - Next Level Week (3rd edition)</h1>
 
-   Project created during Rocketseat's Next Level Week, and taught by Professor Mayk Brito in the Discovery version, in order to publicize the location of host institutions and encourage visits!
+   <h3>Project created during Rocketseat's Next Level Week, and taught by Professor Mayk Brito in the Discovery version, in order to publicize the location of host institutions and encourage visits!</h3>
 ---
    
    - ✅ "Accelerating Your Evolution" 💪
