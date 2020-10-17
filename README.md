@@ -5,13 +5,12 @@
 <h1 align="center">Happy - Next Level Week (3rd edition)</h1>
 
    <h3>Project created during Rocketseat's Next Level Week, and taught by Professor Mayk Brito in the Discovery version, in order to publicize the location of host institutions and encourage visits!</h3>
----
-   
-   - ✅ "Accelerating Your Evolution" 💪
-   - ✅ "Looking at opportunities" 👀
-   - ✅ "The Stack's Choice" 📌
-   - ✅ "Up to two years in 2 months" 🔥
-   - ✅ "The extra mile" 🚀
+
+    ✅ "Accelerating Your Evolution" 💪
+    ✅ "Looking at opportunities" 👀
+    ✅ "The Stack's Choice" 📌
+    ✅ "Up to two years in 2 months" 🔥
+    ✅ "The extra mile" 🚀
 
 
 <h1 align="center">Layout 🎨</h1>
