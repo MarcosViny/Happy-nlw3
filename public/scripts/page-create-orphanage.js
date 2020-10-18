@@ -86,14 +86,29 @@ function toggleSelect(event) {
 }
 
 function validate(event) {
+  const form = event.target
   const lat = document.querySelector("[name=lat]").value;
   const lng = document.querySelector("[name=lng]").value;
 
-  
-  if (lat == "" || lng == "") {
-    alert("Marque um ponto no mapa!");
-   
-    event.preventDefault();
-  } 
-  
+
+  event.preventDefault()
+
+  if(lat && lng){
+    //Active Modal
+    toggleModal()
+
+    //Desactive Modal and Submit Form
+    setTimeout(() => {
+      toggleModal()
+      form.submit()
+    }, 1000); 
+  } else {
+    alert("Marque um ponto no mapa!"); 
+  }
+}
+
+function toggleModal() {
+  const modal = document.querySelector('.modal')
+
+  modal.classList.toggle('active')
 }
