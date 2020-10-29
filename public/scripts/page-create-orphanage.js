@@ -101,7 +101,7 @@ function validate(event) {
     setTimeout(() => {
       toggleModal()
       form.submit()
-    }, 1000); 
+    }, 2000); 
   } else {
     alert("Marque um ponto no mapa!"); 
   }
