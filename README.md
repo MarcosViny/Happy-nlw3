@@ -63,6 +63,9 @@
 
    - Enter in directory:
    $ cd Happy
+   
+   - For install dependencies:
+   $ npm install
 
    - Execute application:
    $ npm start
